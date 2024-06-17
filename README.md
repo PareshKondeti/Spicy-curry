@@ -1,4 +1,4 @@
-This project **Spicy Curry App**is built by applying the concepts of React.
+This project **Spicy Curry App** is built by applying the concepts of React.
 
 **Credentials**
 username: rahul
